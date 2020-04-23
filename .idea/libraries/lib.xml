@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.3/java-sdk/javafx-sdk-13.0.2/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <LIBRARY_FILE />
+    <LIBRARY_FILE />
+    <SOURCES>
+      <root url="file://C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.3/java-sdk/javafx-sdk-13.0.2/lib" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.3/java-sdk/javafx-sdk-13.0.2/lib" recursive="false" />
+    <jarDirectory url="file://C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.3/java-sdk/javafx-sdk-13.0.2/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
